@@ -1,0 +1,21 @@
+.banner {
+  background-size:cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+
+  .banner-content {
+    text-align: center;
+    color:white;
+
+   h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:60px;
+    }
+   p {
+    font-size:20px;
+    }
+  }
+}
