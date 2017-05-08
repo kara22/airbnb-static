@@ -1,0 +1,30 @@
+kara:
+  owner_name: Kara Diaby
+  banner_image: paris.jpg
+  picture: card-paris.jpg
+  flat_picture: kara.jpg
+  owner_picture: http://placehold.it/150x150
+  name: Kara's home
+  summary: Good room in Paris
+  city: Paris, France
+  wifi: true
+charles:
+  owner_name: Charles Marcoin
+  banner_image:
+  picture: card-brussels.jpeg
+  flat_picture: charles.jpg
+  owner_picture: http://placehold.it/150x150
+  name: Charles's Home
+  summary: Nice flat in Bolivia
+  city: Bolivia
+  wifi: true
+christian:
+  owner_name: Christian towards
+  banner_image:
+  picture: card-london.jpeg
+  flat_picture: christian.png
+  owner_picture: http://placehold.it/150x150
+  name: Christian dupont
+  summary: Nice appart in Toulouse
+  city: Toulouse
+  wifi: false

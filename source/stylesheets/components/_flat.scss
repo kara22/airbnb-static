@@ -1,0 +1,28 @@
+.header-flat {
+  height:250px;
+  padding:15px;
+}
+
+.header-flat-name > i {
+    padding: 0 0 0 0 !important;
+}
+
+
+
+.header-flat-details {
+  display:flex;
+  align-items:center;
+  padding:30px;
+}
+
+.header-flat-name {
+  margin-left:20px;
+}
+
+.header-flat form {
+  margin: 20px 0;
+  margin-right: 0;
+  background: #F4F4F4;
+  padding: 15px;
+  border-radius: 3px;
+}
